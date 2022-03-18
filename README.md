@@ -5,5 +5,5 @@
 
 use
 ```
-compile 'com.github.applikeysolutions:cosmocalendar:1.0.4'
+implementation 'com.github.kizitonwose:CalendarView:<latest-version>'
 ```
